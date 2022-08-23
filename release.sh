@@ -12,4 +12,4 @@ cmake \
     -D OPENMW_OSX_DEPLOYMENT=TRUE \
     -G"Unix Makefiles" ../openmw/
 
-make
+make package
